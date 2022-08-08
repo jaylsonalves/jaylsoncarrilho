@@ -1,16 +1,22 @@
-### Hi there 👋
+#### Olá!? Seja bem-vindo. 👋
 
-<!--
-**jaylsoncarrilho/jaylsoncarrilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="47%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jaylsoncarrilho&show_icons=true&theme=default"> 
 
-Here are some ideas to get you started:
+#### Soft skills 🧠
+* Aprendizado ativo e contínuo
+* Gestão pessoal
+* Liderança
+* Resiliência
+* Resolução de problemas complexos
+* Pensamento análitico e crítico
+* Profissionalismo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hard Skills 👨‍💻
+<div style="display: inline_block">
+    <img text-align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img text-align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img text-align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+     <img text-align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img text-align="center" alt="mysql5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
